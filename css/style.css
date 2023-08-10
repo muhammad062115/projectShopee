@@ -79,7 +79,6 @@ body
 /* ======================================== */
 
 
-/* ----------------------------- */
 
 /* container-2 */
 .container-2
@@ -149,7 +148,7 @@ body
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgb(55, 245, 220);
+    /* background: rgb(55, 245, 220); */
 }
 .KATEGORItext
 {
@@ -168,7 +167,7 @@ h5
 }
 .container-3-2
 {
-    width: 95vw;
+    width: 90vw;
     height: auto;
     padding: 15px;
     background-color:#fff;
