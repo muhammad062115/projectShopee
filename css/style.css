@@ -203,10 +203,9 @@ h5
 .box-3-2-1:hover
 {
     cursor: pointer;
-    border: 1px solid #333;
     border-radius: 5px;
     top: -5px;
-    outline: auto;
+    outline:auto;
 }
 .boxImg-3-2-1
 {
@@ -250,7 +249,6 @@ h5
 .box-3-2-1-0:hover
 {
     cursor: pointer;
-    border: 1px solid #333;
     border-radius: 5px;
     top: -5px;
     outline: auto;
