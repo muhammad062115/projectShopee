@@ -112,7 +112,7 @@ body
 .box-2 .imgBox img
 {
     width: 100%;
-    filter: noen;
+    filter: none;
     display: flex;
     justify-content: center;
     align-content: center;
